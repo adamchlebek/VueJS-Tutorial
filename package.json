@@ -25,5 +25,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "typescript": "~3.9.3",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "_id": "my-first-vue@0.1.0",
+  "readme": "ERROR: No README data found!"
 }
